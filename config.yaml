@@ -1,0 +1,13 @@
+
+# Project configuration file
+# Add any global configuration parameters here
+
+# Model and training hyperparameters (to be updated)
+model:
+  type: LSTM  # or XGBoost
+  # Add more model-specific parameters here
+
+training:
+  epochs: null  # to be set
+  batch_size: null  # to be set
+  learning_rate: null  # to be set

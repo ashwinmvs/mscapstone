@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+xgboost
+tensorflow
+jupyterlab
+yfinance
+pandas_datareader
+requests
+vaderSentiment
+seaborn 
+praw
+tweepy
+tqdm
+
